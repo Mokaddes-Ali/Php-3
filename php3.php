@@ -1,4 +1,9 @@
 <?php
+//Ternary Operator
+$x = 30;
+$y = 40;
+$decision = ($x < $y ) ? " $x " : " $y ";
+
 //Practice of loops
 //for loop
 echo "This series is integer number series";
